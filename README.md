@@ -2,6 +2,10 @@
 
 An implementation of an IoC container in JavaScript.
 
+## Test App
+
+I wrote a test app to act as living documentation for the use of this library. That repository can be found [here](https://github.com/ianmacdougald/IoC-test-app).
+
 ## Overview of IoCs
 
 **IoC** stands for 'inversion of control' and represents a design pattern in which dependencies are injected into a process or data structure rather than being explicitly defined within them.
@@ -63,7 +67,3 @@ module.exports = {
   },
 };
 ```
-
-## Test App
-
-I wrote a test app to act as living documentation for the use of this library. That repository can be found [here](https://github.com/ianmacdougald/IoC-test-app).
